@@ -12,7 +12,7 @@
   @apply rounded-xs bg-gray-700 px-5 py-3 font-mono text-sm font-bold text-gray-200 dark:bg-gray-800;
 }
 
-.remark-code-title + div > pre {
+.remark-code-title+div>pre {
   @apply mt-0 rounded-t-none;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .highlight-line {
-  @apply border-primary-500 -mx-4 border-l-4 bg-gray-700/50;
+  @apply border-primary -mx-4 border-l-4 bg-gray-700/50;
 }
 
 .line-number::before {
